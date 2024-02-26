@@ -19,7 +19,7 @@ euraiIdolerius (euruKiekis)
 2. Sukurkite funkciją, kuri paverstų dolerius į eurus.
 Sugeneruokite atsitiktinį skaičių (dolerių sumą) nuo 1 iki 1000.
 Pritaikykite savo sukurtą funkciją ir išspausdinkite atitikmenį
-eurais.
+eurais...
 */
 
 let euruKiekis2 = Math.floor(Math.random() * 1000) + 1;
